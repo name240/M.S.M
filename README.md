@@ -113,7 +113,7 @@ This website is created By: M.Saim Majoka
   <section id="about">
     <h2><u> M.S.M </u><br>
 	   
-	About </h2>
+	About</u></br></h2>
     <p>
       The Radiance School System is dedicated to empowering students through knowledge,
       creativity, and moral values. We provide a nurturing environment that encourages
