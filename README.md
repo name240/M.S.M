@@ -1,1 +1,1 @@
-This is Created BY website: M.Saim Majoka
+This website is created By: M.Saim Majoka
