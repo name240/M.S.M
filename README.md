@@ -1,6 +1,7 @@
 # M.S.M
-This is my website:
-1st: My Friend is GULL Majoka
+This is Created BY website: M.Saim Majoka
+My Frinds;
+1st: GULL Majoka
 2sc:farman
 3rd:Harish (ROObrri)Majoka 
 ht mare jan mare jana tamana kia hal ha 
