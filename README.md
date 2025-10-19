@@ -112,7 +112,7 @@ section h1 {
   </div>
 
   <section id="about">
-    <h2><About</h2>
+    <h2>About</h2>
     <p>
       The Radiance School System is dedicated to empowering students through knowledge,
       creativity, and moral values. We provide a nurturing environment that encourages
@@ -125,7 +125,6 @@ section h1 {
     <p>Email: info@theradianceschool.edu.pk</p>
     <p>Phone: +92-300-0000000</p>
   </section>
-   </section>
   <section id="created By:">
   <h1>Created By:</h1>
   <p>M.Saim Majoka</p>
