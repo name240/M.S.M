@@ -110,9 +110,7 @@
   </div>
 
   <section id="about">
-    <h2><u> M.S.M </u><br>
-	   
-	About</u></br></h2>
+    <h2><About</h2>
     <p>
       The Radiance School System is dedicated to empowering students through knowledge,
       creativity, and moral values. We provide a nurturing environment that encourages
@@ -131,7 +129,7 @@
   <p>M.Saim Majoka</p>
   </section>
   <footer>
-    &copy; 2025 The Radiance School System.
+    &copy; @2025 The Radiance School System.
   </footer>
 
   <script>
