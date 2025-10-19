@@ -125,7 +125,11 @@
     <p>Email: info@theradianceschool.edu.pk</p>
     <p>Phone: +92-300-0000000</p>
   </section>
-
+   </section>
+  <section id="created By:">
+  <h1>Created By:</h1>
+  <p>M.Saim Majoka</p>
+  </section>
   <footer>
     &copy; 2025 The Radiance School System.
   </footer>
