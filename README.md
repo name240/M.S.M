@@ -83,6 +83,7 @@
 section h1 {
       color: #002c6b;
       margin-bottom: 20px;
+	  }
     footer {
       background: #002c6b;
       color: white;
