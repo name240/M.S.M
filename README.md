@@ -103,7 +103,7 @@
   </nav>
 
   <div id="home" class="container">
-	  ![My Image](https://github.com/name240/M.S.M/blob/6adbde3712def22b4699041a6c29781792580532/School%20Logo.jpg)
+	  ![My Image](https://github.com/name240/M.S.M/blob/main/School%20Logo.jpg?raw=true)
 
     <div class="school-name">THE RADIANCE SCHOOL SYSTEM</div>
     <div class="tagline">Glow the minds with knowledge</div>
