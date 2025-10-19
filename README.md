@@ -103,7 +103,7 @@
   </nav>
 
   <div id="home" class="container">
-	  <img src="https://github.com/name240/M.S.M/blob/1e6dc9b297556dc750c2d15c01972976d78ec2f1/School%20Logo.jpg" alt="School Logo" />
+	  <img src="https://github.com/name240/M.S.M/blob/1e6dc9b297556dc750c2d15c01972976d78ec2f1/School%20Logo.jpg" alt="https://github.com/name240/M.S.M/blob/1e6dc9b297556dc750c2d15c01972976d78ec2f1/School%20Logo.jpg" />
   </div>
 
   <section id="about">
