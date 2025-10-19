@@ -103,7 +103,9 @@
   </nav>
 
   <div id="home" class="container">
-    <img src="C:\Users\HP\Desktop\M.S.M\M.S.M MAJOKA_files\457135505_122100649286495437_5516182662454118189_n.jpg" alt="School Logo" />
+    ![My Image](C:\Users\HP\Desktop\New folder\School Logo.jpg)
+<img src="images/my-image.png" alt="My Image" width="300"/>
+
     <div class="school-name">THE RADIANCE SCHOOL SYSTEM</div>
     <div class="tagline">Glow the minds with knowledge</div>
   </div>
