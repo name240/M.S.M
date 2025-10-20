@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=device"/>
+  <meta name="viewport" content="width=device-width,text-align:device , initial-scale=device"/>
   <title>The Radiance School System</title>
   <style>
     /* Basic Reset */
